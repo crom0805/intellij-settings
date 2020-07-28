@@ -161,11 +161,11 @@
           <Count>2</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Run 'kfk'">
+      <Statistic Action="Run 'kfb'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
-          <Description>Run 'kfk'</Description>
+          <Description>Run 'kfb'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -182,7 +182,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'kfb'</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'kfk'">
@@ -241,6 +241,14 @@
           <ShortCut>'Alt+5'</ShortCut>
           <Description>Debug</Description>
           <Count>13</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'kfk'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'kfk'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
     </option>
