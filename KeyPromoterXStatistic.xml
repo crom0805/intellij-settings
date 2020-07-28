@@ -46,7 +46,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'kfk'</Description>
-          <Count>3</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Declaration">
@@ -233,12 +233,6 @@
           <ShortCut>'Alt+5'</ShortCut>
           <Description>Debug</Description>
           <Count>13</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Pin Tab">
-        <Item>
-          <IdeaActionID>PinActiveEditorTab</IdeaActionID>
-          <Description>Pin Tab</Description>
         </Item>
       </Statistic>
     </option>
