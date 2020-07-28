@@ -3,5 +3,8 @@
     <account id="96e168ee-5699-46cb-97aa-fb4adc9c906a" name="crom0805">
       <server host="github.com" />
     </account>
+    <account id="529ba910-1f2b-4478-9d5a-f118ad6eb5ce" name="sanghoon.lee@inbyu.com">
+      <server host="github.com" />
+    </account>
   </component>
 </application>
